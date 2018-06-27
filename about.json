@@ -4,6 +4,10 @@
             "id": "1",
             "title": "xyz",
             "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
+            "ss": [
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG"
+            ],
             "download": [
                 "first",
                 "secound"
@@ -13,22 +17,17 @@
             "id": "2",
             "title": "xyz",
             "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
+            "ss": [
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG"
+            ],
             "download": [
-                {
-                    "simg": "https://shivampatel.ml/img/prakarsh2-min.JPG"
-                },
-                {
-                    "simg": "https://shivampatel.ml/img/prakarsh2-min.JPG"
-                },
-                {
-                    "first": "first"
-                },
-                {
-                    "secound": "secound"
-                },
-                {
-                    "third": "third"
-                }
+                "first",
+                "first",
+                "first",
+                "secound"
             ]
         }
     ]
