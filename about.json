@@ -4,64 +4,30 @@
             "id": "1",
             "title": "xyz",
             "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
-            "download": {
-                "first": "first",
-                "secound": "secound"
-            }
-        },
+            "download": [
                 {
+                    "first": "first"
+                },
+                {
+                    "secound": "secound"
+                }
+            ]
+        },
+        {
             "id": "2",
             "title": "xyz",
             "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
-            "download": {
-                "first": "first",
-                "secound": "secound"
-            }
-        },
+            "download": [
                 {
-            "id": "3",
-            "title": "xyz",
-            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
-            "download": {
-                "first": "first",
-                "secound": "secound"
-            }
-        },
+                    "first": "first"
+                },
                 {
-            "id": "4",
-            "title": "xyz",
-            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
-            "download": {
-                "first": "first",
-                "secound": "secound"
-            }
-        },
+                    "secound": "secound"
+                },
                 {
-            "id": "5",
-            "title": "xyz",
-            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
-            "download": {
-                "first": "first",
-                "secound": "secound"
-            }
-        },
-                {
-            "id": "6",
-            "title": "xyz",
-            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
-            "download": {
-                "first": "first",
-                "secound": "secound"
-            }
-        },
-         {
-            "id": "7",
-            "title": "xyz",
-            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
-            "download": {
-                "first": "first",
-                "secound": "secound"
-            }
+                    "third": "third"
+                }
+            ]
         }
     ]
 }
