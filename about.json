@@ -5,15 +5,8 @@
             "title": "xyz",
             "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
             "download": [
-                {
-                    "simg": "https://shivampatel.ml/img/prakarsh2-min.JPG"
-                },
-                {
-                    "first": "first"
-                },
-                {
-                    "secound": "secound"
-                }
+                "first",
+                "secound"
             ]
         },
         {
