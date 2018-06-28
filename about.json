@@ -8,12 +8,10 @@
             "ss": [
                 "https://4.bp.blogspot.com/-c182QwEx52g/Wx1KGJnOKsI/AAAAAAAAFg4/YxRqLuhreBoK7PLrVVuIOfVsPwy5FU0VwCLcBGAs/s1600/image-2.png"
             ],
-            "download": [
-                "https://openload.co/f/0ko0EGpdyvQ",
-                "https://desiupload.me/08jgepcqtzbn",
-                "https://megaup.net/8YfP/JMMOVIEZ_WS_(2016)_www.Jalshamoviez.org_480p_DvdRip_X264_AAC_ESubs.mkv",
-                "http://www.indishare.me/6rzcvwrttv3s"
-            ]
+            "download": {
+                "name": "openload",
+                "link": "sss"
+            }
         },
         {
             "id": "2",
@@ -24,10 +22,10 @@
                 "https://shivampatel.ml/img/prakarsh2-min.JPG",
                 "https://shivampatel.ml/img/prakarsh2-min.JPG"
             ],
-            "download": [
-                "first",
-                "secound"
-            ]
+            "download": {
+                "name": "openload",
+                "link": "sss"
+            }
         },
         {
             "id": "3",
@@ -38,10 +36,10 @@
                 "https://shivampatel.ml/img/prakarsh2-min.JPG",
                 "https://shivampatel.ml/img/prakarsh2-min.JPG"
             ],
-            "download": [
-                "first",
-                "secound"
-            ]
+            "download": {
+                "name": "openload",
+                "link": "sss"
+            }
         },
         {
             "id": "4",
@@ -54,12 +52,10 @@
                 "https://shivampatel.ml/img/prakarsh2-min.JPG",
                 "https://shivampatel.ml/img/prakarsh2-min.JPG"
             ],
-            "download": [
-                "first",
-                "first",
-                "first",
-                "secound"
-            ]
+            "download": {
+                "name": "openload",
+                "link": "sss"
+            }
         }
     ]
 }
