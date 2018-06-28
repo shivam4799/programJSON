@@ -13,6 +13,32 @@
                 "secound"
             ]
         },
+                {
+            "id": "1",
+            "title": "xyz",
+            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
+            "ss": [
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG"
+            ],
+            "download": [
+                "first",
+                "secound"
+            ]
+        },
+                {
+            "id": "1",
+            "title": "xyz",
+            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
+            "ss": [
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG"
+            ],
+            "download": [
+                "first",
+                "secound"
+            ]
+        },
         {
             "id": "2",
             "title": "xyz",
