@@ -1,0 +1,61 @@
+{
+    "movies": {
+       "0" :{    
+            "id": "1",
+            "title": "Wrong Side Raju (2016) DvDRip x264 ESubs 400MB",
+            "img": "https://2.bp.blogspot.com/-TSm7QZAktIw/Wx1JWfJgRDI/AAAAAAAAFgo/h-O-XWG2kBMxZYV3nsJeFaZyl1qc78DegCLcBGAs/s1600/2017.jpg",
+            "type": "gj",
+            "ss": [
+                "https://4.bp.blogspot.com/-c182QwEx52g/Wx1KGJnOKsI/AAAAAAAAFg4/YxRqLuhreBoK7PLrVVuIOfVsPwy5FU0VwCLcBGAs/s1600/image-2.png"
+            ],
+            "download": {
+                "name": "openload",
+                "link": "sss"
+            }
+        },
+      "1" : {
+            "id": "2",
+            "title": "xyz",
+            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
+            "type": "hw",
+            "ss": [
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG"
+            ],
+            "download": {
+                "name": "openload",
+                "link": "sss"
+            }
+        },
+       "2": {
+            "id": "3",
+            "title": "xyz",
+            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
+            "type": "bw",
+            "ss": [
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG"
+            ],
+            "download": {
+                "name": "openload",
+                "link": "sss"
+            }
+        },
+       "3":{
+            "id": "4",
+            "title": "xyz",
+            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
+            "type": "hw",
+            "ss": [
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG"
+            ],
+            "download": {
+                "name": "openload",
+                "link": "sss"
+            }
+        }
+    }
+}
