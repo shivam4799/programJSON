@@ -4,6 +4,7 @@
             "id": "1",
             "title": "xyz",
             "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
+"type":"bw",
             "ss": [
                 "https://shivampatel.ml/img/prakarsh2-min.JPG",
                 "https://shivampatel.ml/img/prakarsh2-min.JPG",
@@ -18,23 +19,11 @@
                 "secound"
             ]
         },
-                {
-            "id": "2",
+        {
+            "id": "1",
             "title": "xyz",
             "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
-            "ss": [
-                "https://shivampatel.ml/img/prakarsh2-min.JPG",
-                "https://shivampatel.ml/img/prakarsh2-min.JPG"
-            ],
-            "download": [
-                "first",
-                "secound"
-            ]
-        },
-                {
-            "id": "3",
-            "title": "xyz",
-            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
+"type":"hw",
             "ss": [
                 "https://shivampatel.ml/img/prakarsh2-min.JPG",
                 "https://shivampatel.ml/img/prakarsh2-min.JPG"
@@ -45,9 +34,25 @@
             ]
         },
         {
-            "id": "4",
+            "id": "1",
             "title": "xyz",
             "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
+"type":"bw",
+            "ss": [
+                "https://shivampatel.ml/img/prakarsh2-min.JPG",
+                "https://shivampatel.ml/img/prakarsh2-min.JPG"
+            ],
+            "download": [
+                "first",
+                "secound"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "xyz",
+            "img": "https://shivampatel.ml/img/prakarsh2-min.JPG",
+"type":"hw",
+
             "ss": [
                 "https://shivampatel.ml/img/prakarsh2-min.JPG",
                 "https://shivampatel.ml/img/prakarsh2-min.JPG",
